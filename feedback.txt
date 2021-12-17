@@ -1,0 +1,28 @@
+Student(s): Rishabh Goel
+            Samihan Nandedkar
+            Amey Kasbe
+Grader: Vineet Patel
+
+- only some basic Akka or Kafka or Spark examples from some repos are given and nothing else is done: zero grade;
+	* functionality complete: -0%
+- having less than five unit and/or integration scalatests: up to 10% lost;
+	* unit tests present: -0%
+- missing comments and explanations from your program: up to 10% lost;
+	* comments present: -0%
+- logging is not used in your programs: up to 10% lost;
+	* logging used: -0%
+- hardcoding the input values in the source code instead of using the suggested configuration libraries: up to 5% lost;
+	* configuration used: -0%
+- for each used var for heap-based shared variables or mutable collections: 0.5% lost;
+	* no vars: -0%
+- for each used while or for or other loops with induction variables to iterate over a collection: 0.5% lost;
+	* no loops: -0%
+- no instructions in README.md on how to install and run your program: up to 15% lost;
+	* instructions present: -0%
+- the program crashes without completing the core functionality: up to 10% lost;
+	* program does not crash: -0%
+- the documentation exists but it is insufficient to understand your program design and models and how you assembled and deployed all components of your solution: up to 5% lost;
+	* documentation present: -0%
+	
+Final Grade: 20%
+Comments: Excellent job!
